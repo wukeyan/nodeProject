@@ -1,4 +1,4 @@
-### 🍇多人博客平台（node + mongodb）
+### （node + mongodb）
 
 #### 简介
 
